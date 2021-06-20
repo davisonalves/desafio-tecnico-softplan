@@ -1,0 +1,141 @@
+[ {
+  "uid" : "e6faa62dc9e39f50",
+  "name" : "Cria usuário com sucesso",
+  "time" : {
+    "start" : 1624223479854,
+    "stop" : 1624223481098,
+    "duration" : 1244
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae6b7d2f7af95818",
+  "name" : "Cadastrar itens na lista",
+  "time" : {
+    "start" : 1624223497338,
+    "stop" : 1624223499434,
+    "duration" : 2096
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "957b9d91082acb81",
+  "name" : "Marcar um item como completo",
+  "time" : {
+    "start" : 1624223500225,
+    "stop" : 1624223501024,
+    "duration" : 799
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "530b66719b378eb4",
+  "name" : "Consulta todos os usuários",
+  "time" : {
+    "start" : 1624223481122,
+    "stop" : 1624223481583,
+    "duration" : 461
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e98285e1b2e44b6",
+  "name" : "Lista todos as localizacoes",
+  "time" : {
+    "start" : 1624223486539,
+    "stop" : 1624223486891,
+    "duration" : 352
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a1db5efcbdf33e2",
+  "name" : "Lista uma única localizacao",
+  "time" : {
+    "start" : 1624223486897,
+    "stop" : 1624223487214,
+    "duration" : 317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4542c3ef1a98b89",
+  "name" : "Selecionar o filtro active",
+  "time" : {
+    "start" : 1624223501036,
+    "stop" : 1624223501771,
+    "duration" : 735
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d9804c2575edbff",
+  "name" : "Selecionar clear completed com filtro all ativo",
+  "time" : {
+    "start" : 1624223502536,
+    "stop" : 1624223503250,
+    "duration" : 714
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2840b9c1dca84443",
+  "name" : "Excluir itens na lista",
+  "time" : {
+    "start" : 1624223499460,
+    "stop" : 1624223500217,
+    "duration" : 757
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32761a09d4d5a6f6",
+  "name" : "Atualiza um usuário",
+  "time" : {
+    "start" : 1624223482056,
+    "stop" : 1624223482508,
+    "duration" : 452
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6b3210e10fc5213",
+  "name" : "Lista um único episódio",
+  "time" : {
+    "start" : 1624223486202,
+    "stop" : 1624223486525,
+    "duration" : 323
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "906b6dd200fc1079",
+  "name" : "Deleta um usuário",
+  "time" : {
+    "start" : 1624223481590,
+    "stop" : 1624223482051,
+    "duration" : 461
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2a1acaeff99c64c",
+  "name" : "Selecionar o filtro completed",
+  "time" : {
+    "start" : 1624223501780,
+    "stop" : 1624223502526,
+    "duration" : 746
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86774fc763a629f0",
+  "name" : "Lista a primeira página de episódios",
+  "time" : {
+    "start" : 1624223484841,
+    "stop" : 1624223486169,
+    "duration" : 1328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

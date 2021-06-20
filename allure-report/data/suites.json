@@ -1,0 +1,199 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "CRUD Usuarios",
+    "children" : [ {
+      "name" : "Cria usuário com sucesso",
+      "uid" : "e6faa62dc9e39f50",
+      "parentUid" : "38569d75be49f5c3ce76a7453a5bd216",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223479854,
+        "stop" : 1624223481098,
+        "duration" : 1244
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Consulta todos os usuários",
+      "uid" : "530b66719b378eb4",
+      "parentUid" : "38569d75be49f5c3ce76a7453a5bd216",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223481122,
+        "stop" : 1624223481583,
+        "duration" : 461
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Deleta um usuário",
+      "uid" : "906b6dd200fc1079",
+      "parentUid" : "38569d75be49f5c3ce76a7453a5bd216",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223481590,
+        "stop" : 1624223482051,
+        "duration" : 461
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Atualiza um usuário",
+      "uid" : "32761a09d4d5a6f6",
+      "parentUid" : "38569d75be49f5c3ce76a7453a5bd216",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223482056,
+        "stop" : 1624223482508,
+        "duration" : 452
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "38569d75be49f5c3ce76a7453a5bd216"
+  }, {
+    "name" : "Rick And Morty",
+    "children" : [ {
+      "name" : "Lista a primeira página de episódios",
+      "uid" : "86774fc763a629f0",
+      "parentUid" : "946f978263e99d9d909cfad8ff5a20a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223484841,
+        "stop" : 1624223486169,
+        "duration" : 1328
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Lista um único episódio",
+      "uid" : "d6b3210e10fc5213",
+      "parentUid" : "946f978263e99d9d909cfad8ff5a20a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223486202,
+        "stop" : 1624223486525,
+        "duration" : 323
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Lista todos as localizacoes",
+      "uid" : "9e98285e1b2e44b6",
+      "parentUid" : "946f978263e99d9d909cfad8ff5a20a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223486539,
+        "stop" : 1624223486891,
+        "duration" : 352
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Lista uma única localizacao",
+      "uid" : "7a1db5efcbdf33e2",
+      "parentUid" : "946f978263e99d9d909cfad8ff5a20a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223486897,
+        "stop" : 1624223487214,
+        "duration" : 317
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "946f978263e99d9d909cfad8ff5a20a0"
+  }, {
+    "name" : "Todo mvc",
+    "children" : [ {
+      "name" : "Cadastrar itens na lista",
+      "uid" : "ae6b7d2f7af95818",
+      "parentUid" : "a76b9ab5a3fe12986abbb85394e0f326",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223497338,
+        "stop" : 1624223499434,
+        "duration" : 2096
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Excluir itens na lista",
+      "uid" : "2840b9c1dca84443",
+      "parentUid" : "a76b9ab5a3fe12986abbb85394e0f326",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223499460,
+        "stop" : 1624223500217,
+        "duration" : 757
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Marcar um item como completo",
+      "uid" : "957b9d91082acb81",
+      "parentUid" : "a76b9ab5a3fe12986abbb85394e0f326",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223500225,
+        "stop" : 1624223501024,
+        "duration" : 799
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Selecionar o filtro active",
+      "uid" : "d4542c3ef1a98b89",
+      "parentUid" : "a76b9ab5a3fe12986abbb85394e0f326",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223501036,
+        "stop" : 1624223501771,
+        "duration" : 735
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Selecionar o filtro completed",
+      "uid" : "a2a1acaeff99c64c",
+      "parentUid" : "a76b9ab5a3fe12986abbb85394e0f326",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223501780,
+        "stop" : 1624223502526,
+        "duration" : 746
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Selecionar clear completed com filtro all ativo",
+      "uid" : "4d9804c2575edbff",
+      "parentUid" : "a76b9ab5a3fe12986abbb85394e0f326",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624223502536,
+        "stop" : 1624223503250,
+        "duration" : 714
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a76b9ab5a3fe12986abbb85394e0f326"
+  } ]
+}

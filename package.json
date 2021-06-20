@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "cy:run": "cypress run --config video=false  --env allure=true",
+    "allure:generate": " allure generate allure-results",
+    "allure:open": "allure open",
     "test": "cypress run"
   },
   "repository": {
@@ -17,6 +20,7 @@
   },
   "homepage": "https://github.com/davisonalves/desafio-tecnico-softplan#readme",
   "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.8.2",
     "cypress": "^7.5.0"
   }
 }
