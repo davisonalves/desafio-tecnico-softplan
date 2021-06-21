@@ -1,4 +1,4 @@
-# Repositório referente do desafio técnico para vaga de QA da Softplan
+# Repositório referente ao desafio técnico para vaga de QA da Softplan
 
 ## Considerações durante o desenvolvimento do desafio
 
